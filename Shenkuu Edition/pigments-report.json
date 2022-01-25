@@ -1,0 +1,78 @@
+{
+  "atom": "1.58.0",
+  "pigments": "0.40.6",
+  "platform": "win32",
+  "config": {
+    "autocompleteScopes": [
+      ".source.css",
+      ".source.css.less",
+      ".source.sass",
+      ".source.css.scss",
+      ".source.stylus",
+      "souce.html"
+    ],
+    "autocompleteSuggestionsFromValue": true,
+    "sortPaletteColors": "by name",
+    "mergeColorDuplicates": true,
+    "groupPaletteColors": "by file",
+    "traverseIntoSymlinkDirectories": false,
+    "sourceNames": [
+      "**/*.css",
+      "**/*.styl",
+      "**/*.stylus",
+      "**/*.less",
+      "**/*.sass",
+      "**/*.html",
+      "**/*.scss"
+    ],
+    "ignoredNames": [
+      "vendor/*",
+      "node_modules/*",
+      "spec/*",
+      "test/*"
+    ],
+    "ignoredBufferNames": [],
+    "extendedSearchNames": [
+      "**/*.css"
+    ],
+    "supportedFiletypes": [
+      "*"
+    ],
+    "filetypesForColorWords": [
+      "css",
+      "less",
+      "styl",
+      "stylus",
+      "html",
+      "sass",
+      "scss"
+    ],
+    "ignoredScopes": [],
+    "extendAutocompleteToVariables": false,
+    "extendAutocompleteToColorValue": false,
+    "maxDecorationsInGutter": 100,
+    "markerType": "native-background",
+    "sassShadeAndTintImplementation": "compass",
+    "delayBeforeScan": 500,
+    "ignoreVcsIgnoredPaths": true,
+    "notifyReloads": true,
+    "dismissableReloadNotifications": true
+  },
+  "project": {
+    "config": {
+      "sourceNames": [],
+      "searchNames": [],
+      "ignoredNames": [],
+      "ignoredScopes": []
+    },
+    "paths": [
+      "C:\\Users\\katel\\Documents\\CSS&&HTML\\Aesthetic Monthly Archives\\2022\\Shenkuu Edition\\02-2022 Shenkuu Edition.css",
+      "C:\\Users\\katel\\Documents\\CSS&&HTML\\Aesthetic Monthly Archives\\2022\\Shenkuu Edition\\02-2022 Shenkuu Edition.html",
+      "C:\\Users\\katel\\Documents\\CSS&&HTML\\Aesthetic Monthly Archives\\2022\\Shenkuu Edition\\colors.css"
+    ],
+    "variables": {
+      "colors": 0,
+      "total": 0
+    }
+  }
+}
